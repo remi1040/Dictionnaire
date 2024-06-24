@@ -1,0 +1,14 @@
+C:\Users\remim\source\repos\Dictionnaire\Dictionnaire\bin\Debug\net8.0\Dictionnaire.exe
+C:\Users\remim\source\repos\Dictionnaire\Dictionnaire\bin\Debug\net8.0\Dictionnaire.deps.json
+C:\Users\remim\source\repos\Dictionnaire\Dictionnaire\bin\Debug\net8.0\Dictionnaire.runtimeconfig.json
+C:\Users\remim\source\repos\Dictionnaire\Dictionnaire\bin\Debug\net8.0\Dictionnaire.dll
+C:\Users\remim\source\repos\Dictionnaire\Dictionnaire\bin\Debug\net8.0\Dictionnaire.pdb
+C:\Users\remim\source\repos\Dictionnaire\Dictionnaire\obj\Debug\net8.0\Dictionnaire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\remim\source\repos\Dictionnaire\Dictionnaire\obj\Debug\net8.0\Dictionnaire.AssemblyInfoInputs.cache
+C:\Users\remim\source\repos\Dictionnaire\Dictionnaire\obj\Debug\net8.0\Dictionnaire.AssemblyInfo.cs
+C:\Users\remim\source\repos\Dictionnaire\Dictionnaire\obj\Debug\net8.0\Dictionnaire.csproj.CoreCompileInputs.cache
+C:\Users\remim\source\repos\Dictionnaire\Dictionnaire\obj\Debug\net8.0\Dictionnaire.dll
+C:\Users\remim\source\repos\Dictionnaire\Dictionnaire\obj\Debug\net8.0\refint\Dictionnaire.dll
+C:\Users\remim\source\repos\Dictionnaire\Dictionnaire\obj\Debug\net8.0\Dictionnaire.pdb
+C:\Users\remim\source\repos\Dictionnaire\Dictionnaire\obj\Debug\net8.0\Dictionnaire.genruntimeconfig.cache
+C:\Users\remim\source\repos\Dictionnaire\Dictionnaire\obj\Debug\net8.0\ref\Dictionnaire.dll
